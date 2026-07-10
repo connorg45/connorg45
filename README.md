@@ -1,6 +1,6 @@
 # Connor Grogan
 
-**Computer Science student focused on backend and systems engineering — seeking Summer 2027 SWE internships.**
+**Computer Science student focused on backend and systems engineering, seeking Summer 2027 SWE internships.**
 
 I build developer tools and backend systems with Go, Python, TypeScript, PostgreSQL, Redis, and Docker. I care about measurable performance, failure recovery, clean APIs, and software that is easy to run locally.
 
