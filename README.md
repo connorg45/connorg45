@@ -18,7 +18,7 @@ A self-hostable distributed job queue and cron scheduler built around durable Po
 
 **Go · PostgreSQL · Redis · React · Docker · gRPC · Prometheus · Grafana**
 
-### [PR Intelligence](https://github.com/connorg45/pr-intelligence-review-platform)
+### [PR Intelligence](https://github.com/connorg45/pr-review-intelligence)
 
 A full-stack engineering dashboard that syncs GitHub pull requests, explains risky changes, and recommends reviewers using repository history and changed-file signals.
 
